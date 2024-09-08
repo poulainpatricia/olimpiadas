@@ -1,5 +1,5 @@
 ```markdown
-# Olimpíadas - Atletas do Brasil
+# Olimpíadas - Atletas do Brasil - Imersão DEV com Google Gemini
 
 ## Descrição
 Este projeto web apresenta um diretório de atletas brasileiros, permitindo que os usuários pesquisem por nomes de atletas ou esportes. Os resultados da pesquisa são exibidos de forma clara e concisa, com links para mais informações.
